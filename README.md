@@ -5,7 +5,7 @@ Course : **Matrix Methods in Data Analysis, Signal Processing, and Machine Learn
 
 Source : https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm
 
-**Lecture 15**: Matrices A(t) Depending on t, Derivative = dA/dt
+**Lecture 15**: Matrices A(t) Depending on t, Derivative = dA/dt <br />
 **Lecture 16**: Derivatives of Inverse and Singular Values
 **Lecture 17**: Rapidly Decreasing Singular Values
 **Lecture 18**: Counting Parameters in SVD, LU, QR, Saddle Points
